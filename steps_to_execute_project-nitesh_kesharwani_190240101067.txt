@@ -1,0 +1,14 @@
+CURRENCY CONVERTER APP USING PYTHON:-
+
+Follow the below mentioned steps to run this project:
+
+1)Open the source code in jupiter notebook.
+2)Run the source code from the option menus using the option, 'RUN CELLS' or press ''CONTROL+ENTER key together.
+3)After successful execution of the source code, a new window will open titled as 'WELCOME TO REAL TIME CURRENCY CONVERTER'.
+4)In the Real Time Currency Converter window two fields are available:
+	a)The currency which needs to be converted field.
+	b)The currency in which the original currency is to be converted field.
+5)Enter which country cuurency you want to enter from dialogue box.
+6)Enter which country currency value you need from dialogue box.
+7)Enter the respective values in their apt fields.
+8)Click on 'CONVERT' button to get the converted value.
